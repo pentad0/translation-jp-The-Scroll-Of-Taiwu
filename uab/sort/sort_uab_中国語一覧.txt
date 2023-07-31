@@ -1,0 +1,50 @@
+
+□検索条件  "[^\x00\x00-\x7F\x00]"
+検索対象       *.*
+フォルダ       sort\bak
+除外ファイル   *.msi;*.exe;*.obj;*.pdb;*.ilk;*.res;*.pch;*.iobj;*.ipdb
+除外フォルダ   .git;.svn;.vs
+    (サブフォルダも検索)
+    (英大文字小文字を区別しない)
+    (正規表現:bregonig.dll Ver.4.20 with Onigmo 6.2.0)
+    (文字コードセットの自動判別)
+    (一致した行を出力)
+
+
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--1650153177741136700.txt(24,21)  [UTF-8]:  1 string m_text = "略"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--1694052361059455747.txt(24,21)  [UTF-8]:  1 string m_text = "详"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--2727985699310400496.txt(24,21)  [UTF-8]:  1 string m_text = "衣"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--3181791681713756490.txt(24,21)  [UTF-8]:  1 string m_text = "装"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--3275746732105472660.txt(24,21)  [UTF-8]:  1 string m_text = "龄"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--404645412330983713.txt(24,21)  [UTF-8]:  1 string m_text = "宝"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--4779958045849853569.txt(24,21)  [UTF-8]:  1 string m_text = "厢房"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--4968842579812341431.txt(24,21)  [UTF-8]:  1 string m_text = "全"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--4988538908839205917.txt(24,21)  [UTF-8]:  1 string m_text = "名"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--5586163877888225489.txt(24,21)  [UTF-8]:  1 string m_text = "空闲"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--5686313517542529417.txt(24,21)  [UTF-8]:  1 string m_text = "鞋"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--5749776712848717280.txt(24,21)  [UTF-8]:  1 string m_text = "作"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--5751397971894253499.txt(24,21)  [UTF-8]:  1 string m_text = "手"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--586969111600572255.txt(24,21)  [UTF-8]:  1 string m_text = "名"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--7242924955305724882.txt(24,21)  [UTF-8]:  1 string m_text = "成年"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--7651656625212204977.txt(24,21)  [UTF-8]:  1 string m_text = "代"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--8408163916778618231.txt(24,21)  [UTF-8]:  1 string m_text = "品"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--8619843236652683045.txt(24,21)  [UTF-8]:  1 string m_text = "食"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495--9099618291663337572.txt(24,21)  [UTF-8]:  1 string m_text = "头"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-1124600881298790436.txt(24,21)  [UTF-8]:  1 string m_text = "材"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-1658052241320305685.txt(24,21)  [UTF-8]:  1 string m_text = "药"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-1839340527194862912.txt(24,21)  [UTF-8]:  1 string m_text = "价"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-198000524261377598.txt(24,21)  [UTF-8]:  1 string m_text = "它"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-2748972393767342912.txt(24,21)  [UTF-8]:  1 string m_text = "书"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-3949955683930220569.txt(24,21)  [UTF-8]:  1 string m_text = "品"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-4370277580121949940.txt(24,21)  [UTF-8]:  1 string m_text = "居所"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-5574517893690563719.txt(24,21)  [UTF-8]:  1 string m_text = "全民"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-6317232489653091953.txt(24,21)  [UTF-8]:  1 string m_text = "武"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-64170058895440746.txt(24,21)  [UTF-8]:  1 string m_text = "名"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-7447359871758708742.txt(24,21)  [UTF-8]:  1 string m_text = "甲"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-7546277703565789043.txt(24,21)  [UTF-8]:  1 string m_text = "全"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-7650842626377880740.txt(24,21)  [UTF-8]:  1 string m_text = "无家可归"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-8101961041045262965.txt(24,21)  [UTF-8]:  1 string m_text = "重"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-8293452897708741154.txt(24,21)  [UTF-8]:  1 string m_text = "制"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-8433397561276233703.txt(24,21)  [UTF-8]:  1 string m_text = "全"
+TextMeshProUGUI-CAB-3d6870d458d5715be62aabcf8fe10495-9030766159745201049.txt(24,21)  [UTF-8]:  1 string m_text = "名"
+36 個が検索されました。
